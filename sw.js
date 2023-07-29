@@ -5,9 +5,9 @@ sw.addEventListener("install", (event) => {
     event.waitUntil(() => console.info("Installed!"));
 });
 sw.addEventListener("fetch", function (ev) {
-    console.log("updated");
-    console.log("fetch", ev);
-    ev.respondWith("none");
+    // console.log("updated");
+    // console.log("fetch", ev);
+    //ev.respondWith("none");
 });
 sw.addEventListener("push", function (ev) {
     ev.waitUntil(sw.registration.showNotification("My Title", {

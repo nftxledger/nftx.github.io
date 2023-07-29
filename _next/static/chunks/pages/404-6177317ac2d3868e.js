@@ -1,2 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[197],{2960:function(n,u,t){"use strict";t.r(u);var _=t(2322);u.default=function(){return(0,_.jsx)("h1",{children:"404 - Page Not Found"})}},9133:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/404",function(){return t(2960)}])}},function(n){n.O(0,[774,888,179],function(){return n(n.s=9133)}),_N_E=n.O()}]);
-//# sourceMappingURL=404-6177317ac2d3868e.js.map
